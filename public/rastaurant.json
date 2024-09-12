@@ -1,0 +1,102 @@
+[
+    {
+        "image": "https://th.bing.com/th/id/R.c7e43c1ae7e4f5dbafeaf83647b489a2?rik=VzP9CrdaS%2fyjkA&riu=http%3a%2f%2f1000logos.net%2fwp-content%2fuploads%2f2017%2f05%2fColor-Pizza-Hut-Logo.jpg&ehk=RtDubz2K6VrOkJK4q0wOPjdpBkT1BUntmxmdnAIIxyE%3d&risl=&pid=ImgRaw&r=0",
+        "offer": "Items at ₹179",
+        "title": "Pizza Hut",
+        "rating": 4.2,
+        "minTime": 30,
+        "maxTime": 40,
+        "name": "Pizzas",
+        "place": "New Pune"
+    },
+    {
+        "image": "https://th.bing.com/th/id/OIP.bJZLTggqYp8NbDkemLLOTgAAAA?rs=1&pid=ImgDetMain",
+        "offer": "₹50 OFF ABOVE ₹199",
+        "title": "Chinese wok",
+        "rating": 4.5,
+        "minTime": 35,
+        "maxTime": 40,
+        "name": "Sweets,South Indian",
+        "place": "Vishrantwadi"
+    },
+    {
+        "image": "https://www.eatthis.com/wp-content/uploads/sites/4/2018/12/mcdonalds-restaurant.jpg",
+        "offer": "₹85 OFF ABOVE ₹149",
+        "title": "mcdonald's",
+        "rating": 4.3,
+        "minTime": 35,
+        "maxTime": 40,
+        "name": "North India, Thalis",
+        "place": "Sardarpura"
+    },
+    {
+        "image": "https://th.bing.com/th/id/R.39ffaa7b6fe72ff1ba32e0f58cdd0ec9?rik=GDoizTuMw%2fkEuw&riu=http%3a%2f%2fwww.kxl.com%2fwp-content%2fuploads%2f2016%2f01%2fBBQN-640x400.png&ehk=qdH%2bcfO24PDwuMzhLNkLoZZN2lTV%2boPzyj4I07Trm7A%3d&risl=&pid=ImgRaw&r=0",
+        "offer": "₹70 OFF ABOVE ₹149",
+        "title": "Barbeque Nation",
+        "rating": 4.5,
+        "minTime": 25,
+        "maxTime": 25,
+        "name": "Desserts,Ice Cream",
+        "place": "Chopsani Housing Board"
+    },
+    {
+        "image": "https://logos-world.net/wp-content/uploads/2020/05/Burger-King-Logo.png",
+        "offer": "₹1-5 OFF ABOVE ₹179",
+        "title": "Burger king",
+        "rating": 4.4,
+        "minTime": 30,
+        "maxTime": 35,
+        "name": "Biryani, North India",
+        "place": "Shastri Nagar"
+    },
+    {
+        "image": "https://www.mitihoon.com/wp-content/uploads/2020/06/LOGO-Dominos-Pizza-white-on-blue-1024x1024.jpg",
+        "offer": "₹100 OFF ABOVE ₹499",
+        "title": "Domino's",
+        "rating": 4.7,
+        "minTime": 25,
+        "maxTime": 30,
+        "name": "Desserts,Ice Cream",
+        "place": "Sardarpura"
+    },
+    {
+        "image": "https://th.bing.com/th/id/OLC.T5pCRsr72uTCoQ480x360?&rs=1&pid=ImgDetMain",
+        "offer": "Items at ₹109",
+        "title": "La Pino'z Pizza",
+        "rating": 4.0,
+        "minTime": 35,
+        "maxTime": 40,
+        "name": "South Indian",
+        "place": "Chopsani Housing Board"
+    },
+    {
+        "image": "https://th.bing.com/th/id/OIP.4Q62XlXCbuY4tLlU_KalLQHaHE?rs=1&pid=ImgDetMain",
+        "offer": "₹125 OFF ABOVE ₹349",
+        "title": "Dosa Plaza",
+        "rating": 4.3,
+        "minTime": 30,
+        "maxTime": 35,
+        "name": "Biryani, North India",
+        "place": "Shastri Nagar"
+    },
+    {
+        "image": "https://businessupside.in/wp-content/uploads/2021/04/Wow-momo-1024x576.jpg",
+        "offer": "₹70 OFF ABOVE ₹249",
+        "title": "Wow! Momo",
+        "rating": 4.4,
+        "minTime": 30,
+        "maxTime": 35,
+        "name": "American",
+        "place": "Rawaton Ka Bass"
+    },
+    {
+        "image": "https://th.bing.com/th/id/OIP.7nJrWYMAkonHujM2MRSjUQAAAA?rs=1&pid=ImgDetMain",
+        "offer": "₹100 OFF ABOVE ₹449",
+        "title": "Starbucks",
+        "rating": 4.5,
+        "minTime": 35,
+        "maxTime": 40,
+        "name": "Cake",
+        "place": "Chopsani Housing Board"
+    }
+]
